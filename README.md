@@ -3,7 +3,7 @@
 🎓 Estudiante de Ingeniería en Computación en CUALTOS  
 💻 Interesado en el desarrollo de aplicaciones y sitios web  
 📚 Aprendiendo y practicando lenguajes como **C, C++, C#, Python** y otros  
-🚀 Objetivo: crecer como desarrollador de software y construir proyectos que aporten soluciones innovadoras  
+🚀 Objetivo: crecer como desarrollador de software 
 
 ---
 
