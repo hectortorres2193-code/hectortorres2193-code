@@ -1,6 +1,8 @@
 # ¡Hola! Soy Héctor Leonardo Torres Campos 👋
 🎓 Estudiante de Ing. en Computación (3.ᵉʳ Semestre) 
+
 💻 Enfoque en C & Estructuras de Datos  
+
 📚 Explorando C++ y Java
 
 ---
