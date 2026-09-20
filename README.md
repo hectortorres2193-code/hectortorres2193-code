@@ -2,13 +2,13 @@
 
 🎓 Estudiante de Ingeniería en Computación en CUALTOS  
 💻 Interesado en el desarrollo de aplicaciones y sitios web  
-📚 Aprendiendo y practicando lenguajes como **C, C++, C#, Python** y otros  
+📚 Aprendiendo y practicando lenguajes como **C, C++, Java** y otros  
 🚀 Objetivo: crecer como desarrollador de software 
 
 ---
 
 ## 🔧 Tecnologías e Intereses
-- Lenguajes: C, C++, C#, Python
+- Lenguajes: C, C++, Java
 - Herramientas: Git, GitHub, PSeInt
 - Áreas: Desarrollo web y de aplicaciones
 
