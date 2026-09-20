@@ -1,17 +1,16 @@
 # ¡Hola! Soy Héctor Leonardo Torres Campos 👋
-
-🎓 Estudiante de Ingeniería en Computación en CUALTOS  
-💻 Interesado en el desarrollo de aplicaciones y sitios web  
-📚 Aprendiendo y practicando lenguajes como **C, C++, Java** y otros  
-🚀 Objetivo: crecer como desarrollador de software 
+🎓 Estudiante de Ing. en Computación (3.ᵉʳ Semestre) 
+💻 Enfoque en C & Estructuras de Datos  
+📚 Explorando C++ y Java
 
 ---
 
 ## 🔧 Tecnologías e Intereses
-- Lenguajes: C, C++, Java
-- Herramientas: Git, GitHub, PSeInt
-- Áreas: Desarrollo web y de aplicaciones
 
+- **Enfoque Actual (Dominio Medio/Avanzado):** C (Estructuras de Datos, Algoritmos)
+- **Aprendiendo / En Proceso:** C++, Java, Desarrollo Web
+- **Herramientas:** Git, GitHub, PSeInt
+- **Áreas de Interés:** Algoritmos de ordenamiento, desarrollo de aplicaciones y proyectos de ingeniería
 ---
 
 ## 🎯 Metas Académicas y Profesionales
